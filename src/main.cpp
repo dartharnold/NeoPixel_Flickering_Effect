@@ -6,7 +6,7 @@
 #define PIN2       2       // Data pin for second NeoPixel string
 #define PIXELS1    3       // Number of pixels on first string
 #define PIXELS2    3       // Number of pixels on second string
-#define BRIGHTNESS 200     // Max brightness (0-255)
+#define BRIGHTNESS 255     // Max brightness (0-255)
 #define VARIATION  30      // Flicker variation amount (0-255)
 
 // Create NeoPixel objects
